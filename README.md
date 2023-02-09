@@ -7,8 +7,6 @@
 
 - ⚡ I'm taking a degree in **mathematics/physics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Swaghaug](https://github.com/Swaghaug)
-
 - 📫 How to reach me **olegrindhaug94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
