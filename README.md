@@ -1,12 +1,6 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">A hobbyist backend developer/data analyst from Norway</h3>
 
-- 🔭 I’m currently working on **GUI for a scripting software**
-
-- 🌱 I’m currently learning **Java/kotlin and AI using python (pytorch & TensorFlow)**
-
-- ⚡ I'm taking a degree in **mathematics/physics**
-
 - 📫 How to reach me **olegrindhaug94@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
