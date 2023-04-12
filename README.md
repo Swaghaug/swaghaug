@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ole Grindhaug</h1>
+<h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">A hobbyist backend developer/data analyst from Norway</h3>
 
 - 🔭 I’m currently working on **GUI for a scripting software**
