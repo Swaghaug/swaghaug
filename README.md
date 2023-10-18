@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">Computer vision/data engineer from Norway</h3>
 
-- 📫 How to reach me **olegrindhaug94@gmail.com**
+- 📫 How to reach me **ole@cerex.no**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
