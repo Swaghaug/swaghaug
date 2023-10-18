@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my GitHub</h1>
-<h3 align="center">A hobbyist backend developer/data analyst from Norway</h3>
+<h3 align="center">Computer vision/data engineer from Norway</h3>
 
 - 📫 How to reach me **olegrindhaug94@gmail.com**
 
